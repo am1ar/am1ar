@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @am1ar
-- 👀 I’m interested in AI and Cloud Computing
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 Interested in AI
+- 🌱 AWS & GCP
+- 💞️ Looking to collaborate on AI projects
 - 📫 How to reach me https://twitter.com/amar_info
